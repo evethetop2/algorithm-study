@@ -1,6 +1,6 @@
 # [unrated] 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기 - 157339 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157339#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157339) 
 
 ### 성능 요약
 
